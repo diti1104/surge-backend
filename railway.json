@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "startCommand": "java -jar build/libs/surge-pricing-0.0.1-SNAPSHOT.jar"
+    "startCommand": "java -jar build/libs/app.jar"
   }
 }
